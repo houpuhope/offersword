@@ -1,5 +1,7 @@
 package hp.offer.sword._17_linkedlistmerge;
 
+import hp.offer.sword.structure.ListNode;
+
 
 public class ListMerger {
   public ListNode merge(ListNode listA, ListNode listB) {

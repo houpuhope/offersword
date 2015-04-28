@@ -1,5 +1,7 @@
 package hp.offer.sword._18_binarytree;
 
+import hp.offer.sword.structure.BinaryTreeNode;
+
 public class SubTreeFinder {
 
   public static boolean hasSubTree(BinaryTreeNode tree1, BinaryTreeNode tree2) {
